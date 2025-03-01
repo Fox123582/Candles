@@ -1,0 +1,35 @@
+.container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 0; /* Привязываем к нижнему краю */
+    left: 66px; /* Привязываем к левому краю */
+    width: 100%;
+    height: auto; /* Подстроит высоту под контент */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Текст прижат к левому краю */
+    padding-bottom: 40px; /* Добавляем отступ от краев */
+  }
+
+  .title {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+  }
+  
+  .text {
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+  }
+  

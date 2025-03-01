@@ -1,0 +1,13 @@
+.cardContainer {
+    cursor: pointer;
+}
+
+.cardImage {
+    margin-top: 30px;
+}
+
+.category {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
