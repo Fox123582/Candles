@@ -1,6 +1,6 @@
 .footer{
     background-color: rgba(0, 0, 0, 1);
-    padding: 66px;
+    padding: 66px 100px 66px 100px;
     display: flex;
     justify-content: space-between; /* Распределяет блоки слева и справа */
     align-items: center; /* Выравнивание по вертикали по центру */
@@ -10,5 +10,5 @@
 .contacts, .leftText {
     color: white;
     font-weight: 600;
-    font-size: 28px;
+    font-size: 23px;
 }

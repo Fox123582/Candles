@@ -4,4 +4,5 @@
     justify-content: space-between; /* Распределяет блоки слева и справа */
     align-items: center; /* Выравнивание по вертикали по центру */
     gap: 20px;
+    padding: 0 40px 0 40px;
 }

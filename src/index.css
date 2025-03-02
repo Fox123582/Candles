@@ -1,6 +1,24 @@
+@font-face{
+  font-family: Curly;
+  src: url("assets/fonts/curly.ttf");
+}
+
+@font-face{
+  font-family: CurlySec;
+  src: url("assets/fonts/curly.otf");
+}
+
+@font-face{
+  font-family: CurlyThird;
+  src: url("assets/fonts/curly2.ttf");
+}
+
 * {
   margin: 0;
   box-sizing: border-box;
   overflow-x: hidden;
-
+  font-family: Inter, sans-serif;
+}
+body {
+  background: #181818;
 }
