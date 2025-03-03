@@ -6,8 +6,8 @@ const tittle = () => {
     <div className={styles.container}>
       <img src="src\assets\banner_00000 1.svg" alt="Background" className={styles.image} />
       <div className={styles.overlay}>
-        <h2 className={styles.title}> Input your text here </h2>
-        <p className={styles.text}>Input secondary text here</p>
+        <h2 className={styles.title}>Приглашаем вас в мир свечей AnnaGlow!</h2>
+        <p className={styles.text}>Свечи, хранящие в себе больше, чем просто огонь</p>
       </div>
     </div>
   );
