@@ -1,10 +1,13 @@
 .cardContainer {
     cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+
 }
 
 .cardImage {
     margin-top: 30px;
-    margin-bottom: 5px;
+    margin-bottom: 30px;
     border: 5px solid #363638;
     border-radius: 20px;
 }

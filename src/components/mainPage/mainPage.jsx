@@ -8,7 +8,6 @@ export default function MainPage() {
         <>
             <MainTitle/>
             <MainContent/>
-            <Footer/>
         </>
       );
 }
